@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">NoteKeeper</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="no_notes_found_yet">No notes found yet</string>
+    <string name="add_notes">Add Notes</string>
+    <string name="yes">Yes</string>
+    <string name="note_empty">Cannot be empty</string>
+    <string name="no">No</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in_with_google">Sign in with google</string>
+    <string name="logout">Logout</string>
+    <string name="action_delete">Delete</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_content">Note something down</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="_22_00">22:00</string>
+    <string name="march_1_2020">March 1, 2020</string>
+    <string name="action_save">Save</string>
+    <string name="action_sync">Sync</string>
+    <string name="user_1">User 1</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+    <string name="navigation_drawer_open">Open drawer</string>
+    <string name="navigation_drawer_close">Close drawer</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="archived_notes">Archived Notes</string>
+</resources>
