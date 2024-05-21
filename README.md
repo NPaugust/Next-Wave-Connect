@@ -6,8 +6,9 @@ Simple android app for university assignment with Firebase auth,store,realtime d
 - Notes are saved via Firebase firestore, realtime database.
 - Login via Google Account
 
-# Getting Started
-- First, create firebase auth, firestore, database then connect them with [firebase](https://console.firebase.google.com)
+# Run
+
+- To run this project first, create firebase auth, firestore, database then connect them with [firebase](https://console.firebase.google.com)
 - Run gradle options, sync and run project.
   
 ## Screens
